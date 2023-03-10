@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "SlnfFails.sln",
+    "projects": [
+      "SlnfFails\\SlnfFails.csproj"
+    ]
+  }
+}
